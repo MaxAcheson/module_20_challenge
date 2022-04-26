@@ -4,5 +4,5 @@ This project is a simple Solidity smart contract that establishes a joint saving
 
 ## Technologies
 
-This project utilizes `pragma solidity ^0.5.0` and has been constructed on Ethereum's (Remix IDE)[https://remix.ethereum.org/] platform.
+This project utilizes `pragma solidity ^0.5.0` and has been constructed on Ethereum's [Remix IDE](https://remix.ethereum.org/) platform.
 

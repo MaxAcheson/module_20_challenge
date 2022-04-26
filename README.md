@@ -12,7 +12,7 @@ This project utilizes `pragma solidity ^0.5.0` and has been constructed on Ether
 
 2. Upload the file to [Remix IDE](https://remix.ethereum.org/), debug, and deploy.
 
-3. New vanity ethereum addresses must be created for testing purposes. These can be created [here](https://vanity-eth.tk/)
+3. New vanity ethereum addresses must be created for testing purposes. These can be created [here](https://vanity-eth.tk/).
 
 ## Contract Functionality
 

@@ -1,1 +1,1 @@
-# Solidity Smart Contract Automated Joint Savings Account
+# Solidity Smart Contract Joint Savings Account
